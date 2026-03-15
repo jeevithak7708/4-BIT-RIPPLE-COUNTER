@@ -51,7 +51,7 @@ module bit(out,clk,rst);
 ![image](https://github.com/jeevithak7708/4-BIT-RIPPLE-COUNTER/blob/main/ripple%202.png)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-
+![image](https://github.com/jeevithak7708/4-BIT-RIPPLE-COUNTER/blob/main/Screenshot%20(48).png)
 
 **RESULTS**
 
