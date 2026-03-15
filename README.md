@@ -33,7 +33,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 ```
 
 
-module bit(out,clk,rst); 
+module ripple(out,clk,rst); 
  input clk,rst; 
  output reg [3:0]out; 
  always @ (posedge clk)
