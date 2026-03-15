@@ -1,7 +1,9 @@
 # 4-BIT-RIPPLE-COUNTER
 DEVELOPED BY: JEEVITHA K
 
-PEGISTER NO: 212225040149
+REGISTER NO: 212225040149
+
+
 **AIM:**
 
 To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
@@ -46,9 +48,13 @@ module bit(out,clk,rst);
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
-
+![image](https://github.com/jeevithak7708/4-BIT-RIPPLE-COUNTER/blob/main/ripple%202.png)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
 
 **RESULTS**
+
+Thus the implementation 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables is verifed
+
+
